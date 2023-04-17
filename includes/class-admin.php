@@ -123,9 +123,9 @@ class Admin {
                 ),
             );
             
-            $opay_settings_url = admin_url( 'edit.php?post_type=download&page=edd-settings&tab=gateways&section=opay-settings' );
+            $opay_settings_url = admin_url( 'edit.php?post_type=download&page=edd-settings&tab=gateways' );
             
-            /* translators: 1: Paystack settings URL. */
+            /* translators: 1: OPay settings URL. */
             $dashboard_notice = __( 'OPay test mode is still enabled for Easy Digital Downloads, click <a href="%s">here</a> to disable it when you want to start accepting live payment on your site.', 'edd-opay' );
             
             ?>
