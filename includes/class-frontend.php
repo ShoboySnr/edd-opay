@@ -242,7 +242,7 @@ class Frontend {
                 $url = 'https://testapi.opaycheckout.com/api/v1/international/cashier/status';
             }
             
-            $reference = $_REQUEST['reference'];
+            $reference = sanitize_text_field($_REQUEST['reference']);
             
             $data = [
                 'country' => 'NG', // get from settings
@@ -359,14 +359,8 @@ class Frontend {
             exit;
         }
         
-        // to be completed
-        $json = file_get_contents( 'php://input' );
-    
-        $myfile = fopen(WPBROS_EDD_OPAY_PLUGIN_DIR.'log.txt', 'w');
-    
-        fwrite($myfile, $json);
+        // to be completed in next release
         
-        fclose($myfile);
     }
     
     /**

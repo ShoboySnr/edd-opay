@@ -1,6 +1,6 @@
 === OPay Easy Digital Downloads Payment Gateway ===
 Contributors: shoboysnr
-Donate link: https://techwithdee.com/donate
+Donate link: https://techwithdee.com
 Tags: opay, edd, payment gateway, shoboysnr plugins, verve, nigeria, mastercard, visa, bank transfer, bank account, bank card, ussd
 Requires at least: 5.8
 Requires PHP: 7.4
@@ -38,7 +38,7 @@ With OPay for Easy Digital Downloads, you can accept payments via:
 * Your transactions are safe. We are compliant with PCI DSS. Your transactions are always encrypted and secured.
 
 OPay gives you the freedom to get more.
-Our solutions make payments easier, transfers free, savings more rewarding and gives you cashback on airtime and data top-ups. With 100% network uptime, you can make payments in seconds without transaction failure. Enjoy a better life with OPay. Sign up on [Opayweb.com/merchants]https://www.opayweb.com/merchants) to get started as a merchant.
+Our solutions make payments easier, transfers free, savings more rewarding and gives you cashback on airtime and data top-ups. With 100% network uptime, you can make payments in seconds without transaction failure. Enjoy a better life with OPay. Sign up on [Opayweb.com/merchants](https://www.opayweb.com/merchants) to get started as a merchant.
 
 
 = Note =

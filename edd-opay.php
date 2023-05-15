@@ -5,7 +5,7 @@
     Description:       OPay payment gateway for Easy Digital Downloads
     Version:           1.0.0
     Author:            Damilare Shobowale
-    Author URI:        https://wpbros.me
+    Author URI:        https://techwithdee.com
     License:           GPL-2.0+
     License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
     Text Domain:       edd-opay
